@@ -14,6 +14,12 @@ By accessing and using this software, you agree to abide by these terms and ackn
 
 This library provides a set of models and serializers to interact with Breaklee data structures.
 
+## Installation
+
+```bash
+npm install breaklee-data-lib
+```
+
 ## License
 
 License: [MIT](LICENSE)
