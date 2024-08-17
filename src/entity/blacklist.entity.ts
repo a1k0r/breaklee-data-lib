@@ -9,7 +9,7 @@ export class Blacklist {
   account_id?: number;
 
   @Column()
-  address_ip?: number;
+  address_ip?: string;
 
   @Column()
   description: string;
